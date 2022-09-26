@@ -1,0 +1,195 @@
+
+
+   
+.pretinho { 
+    background: #000000;
+    color: #fff; 
+}
+
+.douradinho {
+    background: #CEB035;
+    height: 80px;
+}
+
+.caixinha {
+    width: 17%;
+    background: #CEB035;
+    border-radius: 20px;
+    margin-top: 20px;
+    margin-left: 30px;
+    color: #fff;
+    text-align: center;
+    position: relative;
+    font-family: 'Yeseva One', cursive;
+}
+
+.caixinha h2 {
+    padding-top: 5%;
+    padding-bottom: 5%;
+    font-size: 20px;
+}
+section {
+    display: flex;
+    justify-items: end;
+}
+
+.navbar {
+    height: 80px;
+    color: #fff;
+}
+.nav-brand {
+    margin-left: 55px;
+    font-family: 'Yeseva One', cursive;
+    position: absolute;
+}
+.nav-item{
+    margin-left: 400px;
+    font-family: 'Yeseva One', cursive;
+}
+    
+.nav-item.dropdown {
+    margin-left: 5px;
+    font-family: 'Yeseva One', cursive;
+}
+.continuelendo{
+    height: 50px;
+    width: 160px;
+    background-color: #CEB035;
+    font-family: 'Yeseva One', cursive;
+    margin-left: 5%;
+    border-radius: 6px;
+    color: #fff;
+}
+.continuelendo h2{
+    font-size: 18px;
+    padding-top: 8%;
+    padding-left: 10px;
+}
+.card-img-top{
+    height: 350px;
+    width: 100px;
+}
+.pulalinha{
+    height: 80px;
+}
+
+.box-geral {
+    position: relative;
+    background: #000000;
+    color: #ceb035;
+}
+.box-geral2  {
+    position: relative;
+    background: #000000;
+    color: #ceb035;
+    border-bottom-left-radius: 7px;
+    border-bottom-right-radius: 7px;
+}
+.box-login {
+    background: #000000;
+    box-sizing: border-box;
+    box-shadow: 0 15px 25px;
+}
+
+ .user-box {
+    position: relative;
+}
+
+ .user-box input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+ .user-box label {
+    position: absolute;
+    top: 0;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #ceb035;
+    pointer-events: none;
+    transition: .5s;
+}
+
+.user-box input:focus~label,
+.user-box input:valid~label {
+    top: -20px;
+    left: 0;
+    color: #ceb035;
+    font-size: 12px;
+}
+.user-boxx {
+    position: relative;
+}
+
+ .user-boxx input {
+    width: 100%;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #fff;
+    margin-bottom: 30px;
+    border: none;
+    border-bottom: 1px solid #fff;
+    outline: none;
+    background: transparent;
+}
+
+ .user-boxx label {
+    position: absolute;
+    top: -20px;
+    left: 0;
+    padding: 10px 0;
+    font-size: 16px;
+    color: #ceb035;
+    pointer-events: none;
+    transition: .5s;
+}
+.user-boxx input:focus~label,
+.user-boxx input:valid~label {
+    left: 0;
+    color: #ceb035;
+    font-size: 12px;
+}
+
+.box-geral2 section button {
+    position: relative;
+    display: inline-block;
+    padding: 10px 20px;
+    color: #CEB035;
+    font-size: 16px;
+    text-decoration: none;
+    text-transform: uppercase;
+    overflow: hidden;
+    transition: .5s;
+    margin-top: 15px;
+    letter-spacing: 4px;
+}
+
+.botao {
+    background-color: #ceb035;
+    color: #fff;
+}
+
+.rodape {
+    font-family: 'Mali', cursive;
+    text-align: center;
+    color: #000000;
+}
+
+h5 {
+    font-family: 'Mali', cursive;
+    color: #fff;
+}
+p {
+    color: #fff;
+}
+h2 {
+    color: #000000;
+}

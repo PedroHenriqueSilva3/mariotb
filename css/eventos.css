@@ -1,0 +1,81 @@
+@import url('https://fonts.googleapis.com/css2?family=Yeseva+One&display=swap');
+
+.pretinho { 
+    background: #000000;
+    color: #fff;   
+}
+.cabecalho{
+    height: 200px;
+    width: 95%;
+    background-color: #ceb035;
+    margin: auto;
+}
+.cabecalho p{
+    padding-top: 15px;
+    text-align: center;
+    font-size: 120px;
+    font-family: 'Yeseva One', cursive;
+   color: #000000;
+}
+.linha {
+    height: 1px;
+    background-color: #000000;
+    width: 90%;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 25px;
+}
+.button1{
+    color: black;
+    background-color: #ceb035;
+    margin: auto;
+}
+
+section {
+    flex-direction: row;
+}
+.cards {
+    width: 90%;
+}
+
+.card4 {
+    width: 100%;
+    height: 100%;
+}
+.rodape {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
+.carroselT {
+    width: 90%;
+    height: 700px;
+    background-color: #ceb035;
+    margin: auto;
+}
+.letra {
+    position: absolute;
+    color: #000000;
+}
+.card-carrosel {
+    top: 50px;
+    height: 600px;
+}
+
+h5 {
+    font-family: 'Mali', cursive;
+    text-align: center;
+}
+.modal-content {
+    color: #000000;
+}
+
+.btn {
+    margin: auto;
+}
+.img2 {
+    height: 250px;
+}
+
+.img {
+    height: 450px;
+}
